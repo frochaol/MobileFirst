@@ -363,7 +363,7 @@ main {
 .bitcoin-img-container {
     width: 100%;
     min-width: 320px;
-    height: 100vh;
+    height: 50vh;
     background-image: url('./assets/imgs/bitcoinbaby.jpg');
     background-position: center;
     background-size: cover;
