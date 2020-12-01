@@ -165,7 +165,7 @@ main {
     font-size: 1.8rem;
     font-weight: bold;
     line-height: 2.3rem;
-    text-align: left;
+    text-align: center;
 }
 
 .main-currency-table .currency-table--moneytitle {
@@ -530,3 +530,5 @@ footer .left ul{
     text-decoration: none;
     color: var(--just-white);
 }
+
+/* MEDIA QUERIES */
