@@ -1,5 +1,5 @@
-# MobileFirst
-Desarrollo de prototipo para página web con patrón de maquetación Mobile First, buenas prácticas y metodología BEM para la definición de clases CSS.
+# Mobile First (Batatacoin)
+Desarrollo de prototipo para página web con patrón de maquetación Mobile First utilizando buenas prácticas con HTML y CSS, también metodología BEM para la definición de clases CSS.
 
 # Link de GitHub Page
 
